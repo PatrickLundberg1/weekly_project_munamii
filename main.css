@@ -1,0 +1,43 @@
+
+header {
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 20%;
+    height: 20%;
+    border-style: solid;
+    border-color: darkcyan;
+    border-radius: 50%;
+}
+
+header > a {
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer > a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
