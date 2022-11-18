@@ -6,7 +6,7 @@ body {
 
 header {
     text-align: center;
-    background-color: lightblue;
+    background-color: #82D0D9;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -48,7 +48,7 @@ footer > a {
 }
 
 #main_text {
-    background-color: #24AA94;
+    background-color: #ACDCD3;
     text-align: center;
     align-items: center;
     display: flex;
@@ -58,7 +58,7 @@ footer > a {
 }
 
 .gallery_area {
-    background-color: #24AA94;
+    background-color: #ACDCD3;
     text-align: center;
     position: relative;
     top: 10px;
